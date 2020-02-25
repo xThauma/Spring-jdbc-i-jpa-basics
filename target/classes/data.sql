@@ -1,0 +1,1 @@
+insert into CUSTOMER(USERNAME,PASSWORD,NAME,EMAIL) values ('jan','kowalski','poland','jkowalski@wp.pl');
